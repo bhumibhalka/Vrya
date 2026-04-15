@@ -1,4 +1,4 @@
 # Vrya
 This is a project. 
 <br>
-Author - Bhumi 
+Author - Bhumi (Bhalka)
